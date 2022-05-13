@@ -3,7 +3,7 @@
 I am CHIBUZOR MOKOLO, a developer, UI/UX designer and machine learning.
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=MokosDa3rd&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=MoksDa3rd&show_icons=true&count_private=true)
 
 ## Languages
 
