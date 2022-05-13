@@ -1,6 +1,6 @@
-# Wellcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am CHIBUZOR MOKOLO, a developer, UI/UX designer and machine learning.
+I am CHIBUZOR MOKOLO, a developer and machine learning.
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MoksDa3rd&show_icons=true&count_private=true)
