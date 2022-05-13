@@ -14,7 +14,7 @@ I am CHIBUZOR MOKOLO, a developer, UI/UX designer and machine learning.
 ![](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MokosDa3rd&hide=python,css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoksDa3rd&hide=python,css,html)
 
 ## Frontend Skills
 
