@@ -48,6 +48,6 @@ I am Chibuzor Mokolo, a developer and machine learning.
 
 <h3 align="center">I'm currently vibing to 🎧</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" height="300px" alt="spotify"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=n0rm1kq3erv1julqyq7evfmgi" alt="spotify" height="300px"/></p>
-### 📫 How to reach me:
+## 📫 How to reach me:
 
 - email: chibuzormokolo@gmail.com
