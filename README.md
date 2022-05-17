@@ -1,6 +1,7 @@
 # Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am CHIBUZOR MOKOLO, a developer and machine learning.
+<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MoksDa3rd&show_icons=true&count_private=true)
