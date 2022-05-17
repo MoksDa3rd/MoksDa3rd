@@ -16,23 +16,6 @@ I am CHIBUZOR MOKOLO, a developer and machine learning.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoksDa3rd&hide=python,css,html)
 
-## Frontend Skills
-
-![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&link=https://github.com/facebook/react)
-![](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
-![](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
-![](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&link=https://github.com/expo/expo)
-![](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
-![](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white)
-
-## Backend Skills
-
-![](https://img.shields.io/badge/-Gin-00ADD8?link=https://github.com/gin-gonic/gin)
-![](https://img.shields.io/badge/-Koa%20JS-000000?link=https://koajs.com)
-![](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
-![](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-![](https://img.shields.io/badge/-Mongo%20DB-47A248?logo=mongodb&logoColor=white)
 
 ## Operation Skills
 
@@ -62,14 +45,8 @@ I am CHIBUZOR MOKOLO, a developer and machine learning.
 ![](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)
 ![](https://img.shields.io/badge/-Facebook%20Pixel-1877F2?logo=facebook&logoColor=white)
 
-## Design Tool Skills
-
-![](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=white)
-![](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white)
-![](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?logo=adobe%20premiere%20pro&logoColor=white)
-![](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?logo=adobe%20after%20effects&logoColor=white)
-
+<h3 align="center">I'm currently vibing to 🎧</h3>
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" height="300px" alt="spotify"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=n0rm1kq3erv1julqyq7evfmgi" alt="spotify" height="300px"/></p>
 ### 📫 How to reach me:
 
 - email: chibuzormokolo@gmail.com
