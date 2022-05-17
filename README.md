@@ -1,6 +1,6 @@
 # Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am CHIBUZOR MOKOLO, a developer and machine learning.
+I am Chibuzor Mokolo, a developer and machine learning.
 <p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
 
 
