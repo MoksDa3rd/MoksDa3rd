@@ -46,8 +46,9 @@ I am Chibuzor Mokolo, a developer and machine learning.
 ![](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)
 ![](https://img.shields.io/badge/-Facebook%20Pixel-1877F2?logo=facebook&logoColor=white)
 
-<h3 align="center">I'm currently vibing to 🎧</h3>
+## I'm currently vibing to 🎧
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=n0rm1kq3erv1julqyq7evfmgi&cover_image=true&theme=compact" height="300px" alt="spotify"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=n0rm1kq3erv1julqyq7evfmgi" alt="spotify" height="300px"/></p>
+
 ## 📫 How to reach me:
 
 - email: chibuzormokolo@gmail.com
